@@ -3,17 +3,17 @@ const FeedbackData = [
     {
         id: 1,
         rating: 10,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+        text: 'This is a perfect ten out of ten rating.',
     },
     {
         id: 2,
         rating: 9,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+        text: 'This rating deducted one point, so therea re only nine points left.',
     },
     {
         id: 3,
         rating: 8,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+        text: 'This is the lowest scoring one so far, two points below the first one.',
     },
 ]
 
