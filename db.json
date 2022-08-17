@@ -6,20 +6,19 @@
       "text": "This is a BACKEND feedback with perfect rating"
     },
     {
-      "id": 2,
-      "rating": 7,
-      "text": "This BACKEND feedback item 2 with seven out of ten rating"
-    },
-    {
-      "id": 3,
-      "rating": 4,
-      "text": "This BACKEND item has id 3 with a pretty low rating"
+      "text": "Testing update feature into backend",
+      "rating": 9,
+      "id": 3
     },
     {
       "rating": "8",
       "text": "Feedback from POSTMAN test",
       "id": 4
+    },
+    {
+      "text": "Adding feedback to backend from browser",
+      "rating": 8,
+      "id": 5
     }
-
   ]
 }
