@@ -1,0 +1,25 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is a BACKEND feedback with perfect rating"
+    },
+    {
+      "id": 2,
+      "rating": 7,
+      "text": "This BACKEND feedback item 2 with seven out of ten rating"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "text": "This BACKEND item has id 3 with a pretty low rating"
+    },
+    {
+      "rating": "8",
+      "text": "Feedback from POSTMAN test",
+      "id": 4
+    }
+
+  ]
+}
